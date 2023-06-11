@@ -1,0 +1,36 @@
+.icon {
+    font-size: 20px !important;
+    color: #0000 !important;
+}
+
+
+#Footer {
+    height: 200px;
+    background-color: #6C868C;
+}
+
+#logo h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+}
+
+#logo p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.copyright {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.fa:hover {
+    font-size: 25px;
+    color: #465459 !important;
+}

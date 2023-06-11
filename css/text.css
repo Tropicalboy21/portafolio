@@ -1,0 +1,32 @@
+.description {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.greating {
+    color: #fff;
+    font-family: 'Montserrat';
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 19px !important;
+}
+
+.subtitle {
+    color: #fff;
+    font-family: 'Montserrat';
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 22px !important;
+}
+
+.greating-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 85px;
+    position: relative;
+
+}

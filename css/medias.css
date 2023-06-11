@@ -1,0 +1,431 @@
+/* SMALL */
+@media(max-width: 390px) {
+
+    /* Home */
+    .home {
+        display: flex;
+        justify-content: center;
+    }
+
+    .home_content {
+        margin-bottom: 130px !important;
+    }
+
+    #Home {
+        height: 730px;
+    }
+
+    #Services {
+        height: auto;
+    }
+
+    #Work {
+        height: 910px;
+    }
+
+    .name {
+        font-size: 40px !important;
+    }
+
+    .job {
+        font-size: 21px !important;
+    }
+
+    div .gg {
+        width: 74px;
+        height: 9px;
+    }
+
+    div .gg2 {
+        width: 54px;
+        margin-left: 5px !important;
+        height: 9px;
+    }
+
+
+    div .gg3 {
+        height: 9px;
+        width: 9px;
+        margin-left: 5px !important;
+    }
+
+    div .gg4 {
+        width: 114px;
+        margin-left: 5px !important;
+        height: 9px;
+    }
+
+    div .g5 {
+        height: 9px;
+        width: 128px;
+    }
+
+    div .g6 {
+        height: 9px;
+        width: 114px;
+    }
+
+    div .g7 {
+        height: 9px;
+        width: 42px;
+        margin-left: 5px !important;
+
+    }
+
+    div .g8 {
+        width: 42px;
+        height: 9px;
+    }
+
+    div .g9 {
+        width: 114px;
+        height: 9px;
+    }
+
+    div .gx {
+        width: 79px;
+        height: 9px;
+    }
+
+    /* About */
+
+    div .greating-title .ball {
+        top: -49px;
+        right: 70px;
+        height: 100px;
+        width: 100px;
+
+    }
+
+    div .greating-title {
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 37px;
+    }
+
+    .photo {
+        position: relative;
+        overflow: hidden;
+        width: 200px;
+        height: 200px;
+        border-radius: 187.5px !important;
+        filter: drop-shadow(0px 6px 4px rgba(0, 0, 0, 0.25));
+
+    }
+
+    .grid-1 {
+        top: 150px;
+        right: 150px;
+        -webkit-border-radius: 45px;
+        -moz-border-radius: 45px;
+        border-radius: 100%;
+        position: absolute;
+        width: 50px;
+        height: 50px;
+    }
+
+    .grid-1 img {
+        width: 100%;
+    }
+
+    div .profile .grid-2 {
+        top: -29px;
+        right: -19px;
+        -webkit-border-radius: 45px;
+        -moz-border-radius: 45px;
+        border-radius: 100%;
+        position: absolute;
+        width: 120px;
+        height: 120px;
+        z-index: -1;
+    }
+
+    .grid-2 img {
+        width: 100%;
+    }
+
+
+    div .img-box {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    #About {
+        height: 910px;
+    }
+
+
+
+    div .description {
+        font-size: 14px;
+        margin-top: 20px;
+    }
+
+    textarea {
+        width: 100%;
+    }
+
+    #Footer {
+        height: 290px;
+    }
+
+    #Footer .copyright {
+        margin-bottom: 20px;
+    }
+}
+
+
+@media (max-width: 790px) {
+
+    #Home {
+        height: 650px;
+        width: auto;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    /* Home */
+    .home {
+        display: flex;
+        justify-content: center;
+    }
+
+    .home_content {
+        margin-bottom: 150px !important;
+    }
+
+    #Home {
+        height: 740px;
+    }
+
+    #Services {
+        height: auto;
+    }
+
+    #Work {
+        height: 910px;
+    }
+
+    .name {
+        font-size: 65px;
+    }
+
+    .job {
+        font-size: 30px;
+    }
+
+    /* Home */
+    .gg {
+        width: 122px;
+    }
+
+    .gg2 {
+        width: 110px;
+    }
+
+    .gg4 {
+        width: 234px;
+    }
+
+    .g5 {
+        width: 263px;
+    }
+
+    .g6 {
+        width: 281px;
+    }
+
+    .g7 {
+        width: 80px;
+    }
+
+    .g8 {
+        width: 46px;
+    }
+
+    .g9 {
+        width: 386px;
+    }
+
+    #Contact {
+        height: auto;
+    }
+
+    .sct-contact {
+        width: 90%;
+        height: auto;
+    }
+
+
+
+
+}
+
+/* MEDIUM */
+@media (max-width: 994px) {
+
+    /* Home */
+
+
+    .gg {
+        width: 152px;
+    }
+
+    .gg2 {
+        width: 110px;
+    }
+
+    .gg4 {
+        width: 234px;
+    }
+
+    .g5 {
+        width: 263px;
+    }
+
+    .g6 {
+        width: 281px;
+    }
+
+    .g7 {
+        width: 80px;
+    }
+
+    .g8 {
+        width: 46px;
+    }
+
+    .g9 {
+        width: 386px;
+    }
+
+    /* About */
+
+    .greating {
+        font-size: 22px;
+    }
+
+    #About {
+        height: auto;
+    }
+
+    .img-box {
+        display: flex;
+        align-items: center;
+    }
+
+    /* About me #2 */
+    #Services {
+        height: auto;
+
+    }
+
+    /* Work */
+
+    #Work {
+        height: auto;
+    }
+
+    textarea {
+        width: 100%;
+    }
+
+    #Footer {
+        height: auto;
+    }
+
+    #Footer .container .row {
+        display: none;
+    }
+
+    #Footer .container .pie {
+        display: flex;
+        justify-content: center;
+    }
+
+    .wrap {
+        width: 400px !important;
+    }
+
+    .wrap .col {
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 991px) {
+    .navbar-header {
+        float: none;
+    }
+
+    .navbar-left,
+    .navbar-right {
+        float: none !important;
+    }
+
+    .navbar-toggle {
+        display: block;
+    }
+}
+
+@media (min-width: 1200px) {
+    .navbar-expand-custom {
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+    }
+
+    .navbar-expand-custom .navbar-nav {
+        flex-direction: row;
+    }
+
+    .navbar-expand-custom .dropdown-menu {
+        position: absolute;
+    }
+
+    .navbar-expand-custom .nav-link {
+        padding-right: .5rem;
+        padding-left: .5rem;
+    }
+
+    .navbar-expand-custom>.container {
+        flex-wrap: nowrap;
+    }
+
+    .navbar-expand-custom .navbar-collapse {
+        display: flex !important;
+        flex-basis: auto;
+    }
+
+    .navbar-expand-custom .navbar-toggler {
+        display: none;
+    }
+}
+
+/* LARGE */
+@media (min-width: 1280px) {
+    .gg {
+        width: 192px;
+    }
+
+    .gg2 {
+        width: 140px;
+    }
+
+    .gg4 {
+        width: 295px;
+    }
+
+    .g5 {
+        width: 330px;
+    }
+
+    .g6 {
+        width: 353px;
+    }
+
+    .g7 {
+        width: 100px;
+    }
+
+}
