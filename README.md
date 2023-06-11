@@ -1,3 +1,0 @@
-# portafolio
-
-Personal Portafolio Project
