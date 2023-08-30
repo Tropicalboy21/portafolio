@@ -220,6 +220,22 @@ body {
     height: 700px;
 }
 
+.subtitle-service {
+    width: 266px;
+    height: 66.477px;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: linear-gradient(180deg, #57E8CE 34.90%, #187AD4 82.81%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
 .services_wrapper {
     display: flex;
     align-items: center;
@@ -229,34 +245,30 @@ body {
 .gg6 {
     height: 14px;
     width: 90%;
-    border-radius: 100px;
-    background: rgb(240, 36, 36);
-    background: linear-gradient(90deg, rgba(240, 36, 36, 1) 13%, rgba(255, 207, 85, 1) 100%);
+    border-radius: 50px;
+    background: linear-gradient(90deg, rgba(87, 232, 206, 0.81) 20.52%, #187AD4 100%);
 }
 
-.subtitle-service {
-    width: 266px;
-    height: 62px;
 
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 50px;
-    line-height: 61px;
-    text-align: center;
-
-    color: transparent;
-    background: linear-gradient(180deg, rgba(240, 36, 36, 0.58) 0%, rgba(255, 207, 85, 0.58) 100%);
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    background-clip: text;
-    text-shadow: 0px 4px 4px rgba(121, 121, 121, 0.148);
-}
-
-/* Work */
-#Work {
+/* Projects */
+#Projects {
     height: 700px;
 
+}
+
+.subtitle-projects {
+    width: 266px;
+    height: 66.477px;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: linear-gradient(180deg, #675CE1 16.67%, #539BEF 77.60%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .lights {
@@ -283,7 +295,6 @@ body {
     color: #b9b9b9;
 }
 
-
 .gg7 {
     height: 14px;
     width: 90%;
@@ -292,26 +303,8 @@ body {
     background: linear-gradient(90deg, rgba(103, 92, 225, 1) 13%, rgba(83, 155, 239, 1) 100%);
 }
 
-.subtitle-work {
-    width: 266px;
-    height: 62px;
-
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 50px;
-    line-height: 61px;
-    text-align: center;
-
-    color: transparent;
-    background: linear-gradient(180deg, rgba(103, 92, 225, 0.58) 0%, rgba(83, 155, 239, 0.4698) 100%);
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    background-clip: text;
-    text-shadow: 0px 4px 4px rgba(121, 121, 121, 0.148);
-}
-
 /* Contact */
+
 #Contact {
     height: 700px;
 }
@@ -331,7 +324,6 @@ body {
 .sct-contact {
     width: 90%;
     height: 618px;
-    background: linear-gradient(100.02deg, rgba(92, 225, 129, 0.67) -20.03%, rgba(65, 78, 86, 0.87) 65.87%);
     border-radius: 20px;
 }
 
@@ -347,13 +339,10 @@ body {
     line-height: 61px;
     text-align: center;
 
-    color: transparent;
-    background: linear-gradient(180deg, rgba(102, 244, 142, 0.58) 0%, rgba(87, 232, 206, 0.4698) 100%);
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    background-clip: text;
-    text-shadow: 0px 4px 4px rgba(36, 36, 36, 0.198);
+    color: #8F8F8F;
 }
+
+
 
 label {
     color: #fff;
@@ -363,16 +352,21 @@ label {
     font-size: 22px !important;
 }
 
+.message-area {
+    height: 327.24px;
+    padding: 30px !important;
+}
+
 input {
     color: #fff;
     background-color: transparent;
     border: none;
     border-bottom: 1px solid #fff;
-    width: 100%;
+    width: 220px;
 }
 
 form>div {
-    line-height: 2.5em;
+    line-height: 1.9rem;
 }
 
 form span {
@@ -394,4 +388,14 @@ form span {
     box-shadow: inset 400px 0 0 0 #FFFFFF;
     color: #22333D !important;
     font-weight: 600 !important;
+}
+
+.contact-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 505px;
+    border-radius: 20px;
+    background-color: rgba(119, 136, 153, 0.275) !important;
+    height: 452.473px;
 }
