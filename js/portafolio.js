@@ -1,3 +1,4 @@
+
 document.getElementById("dot").onclick = function () {
     location.href = "#";
 }
