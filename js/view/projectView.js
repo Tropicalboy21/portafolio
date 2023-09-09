@@ -1,4 +1,4 @@
-import { div, img, p, hr } from '/js/libs/html.js';
+import { div, img, p, hr } from './libs/html.js';
 
 export class ProjectView {
     constructor(parent, project) {
