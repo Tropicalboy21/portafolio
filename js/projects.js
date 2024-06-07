@@ -8,6 +8,7 @@ window.addEventListener('load', init, false);
 function init() {
     let projectContainer = document.getElementById("projects-container");
     let projects = [];
+
     loadProjects();
 
 
