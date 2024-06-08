@@ -39,3 +39,12 @@
     height: 15px;
     width: 32px;
 }
+
+.icon-x {
+    transition: filter 0.3s;
+}
+
+.icon-x:hover {
+    filter: invert(43%) sepia(14%) saturate(456%) hue-rotate(159deg) brightness(90%) contrast(88%);
+
+}
